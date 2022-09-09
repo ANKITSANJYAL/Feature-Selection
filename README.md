@@ -1,3 +1,3 @@
 # Feature-Selection
 
-data link : https://www.kaggle.com/competitions/santander-customer-satisfaction
+data link for deleting constant features : https://www.kaggle.com/competitions/santander-customer-satisfaction
